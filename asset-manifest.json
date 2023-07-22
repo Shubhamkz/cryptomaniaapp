@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Shubhamkz/cryptomaniaapp.git/static/css/main.5625aa8f.css",
+    "main.js": "/Shubhamkz/cryptomaniaapp.git/static/js/main.2f58c2e8.js",
+    "static/media/cryptocurrency.png": "/Shubhamkz/cryptomaniaapp.git/static/media/cryptocurrency.1548aced3f0605895bac.png",
+    "index.html": "/Shubhamkz/cryptomaniaapp.git/index.html",
+    "main.5625aa8f.css.map": "/Shubhamkz/cryptomaniaapp.git/static/css/main.5625aa8f.css.map",
+    "main.2f58c2e8.js.map": "/Shubhamkz/cryptomaniaapp.git/static/js/main.2f58c2e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5625aa8f.css",
+    "static/js/main.2f58c2e8.js"
+  ]
+}
